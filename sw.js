@@ -4,7 +4,7 @@
    Offline : redirection automatique vers offline.html
    ============================================================ */
 
-const CACHE_V = 'Miralocks-v10'; // Cache-busting forcé pour iPhone (Date Picker Fix)
+const CACHE_V = 'Miralocks-v13'; // Calendrier VISIBILITÉ FIX v2
 const STATIC = [
   '/offline.html',
   '/css/styles.css',
