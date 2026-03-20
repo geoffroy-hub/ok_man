@@ -4,7 +4,7 @@
    Offline : redirection automatique vers offline.html
    ============================================================ */
 
-const CACHE_V = 'Miralocks-v9'; // Mode Hors-ligne strict — backend RDV + avis dynamiques
+const CACHE_V = 'Miralocks-v10'; // Cache-busting forcé pour iPhone (Date Picker Fix)
 const STATIC = [
   '/offline.html',
   '/css/styles.css',
